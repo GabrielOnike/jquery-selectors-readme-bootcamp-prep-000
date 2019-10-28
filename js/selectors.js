@@ -1,4 +1,6 @@
 // declare your functions here...
-<script
-       $("p");
-</script>
+<script type = "text/javascript" language = "javascript">
+         $(document).ready(function() {
+            $("p").css("background-color", "yellow");
+         });
+      </script>
