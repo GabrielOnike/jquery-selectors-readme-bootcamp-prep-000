@@ -1,4 +1,4 @@
 // declare your functions here...
-<script>
+<script
        $("p");
 </script>
