@@ -1,5 +1,5 @@
 // declare your functions here...
-<script type = "text/javascript" lang = "javascript" >
+<script>
      function paragraphSelector() {
        $("p").css ;
      }
